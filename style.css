@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'PressStart2P';
+    src: url(Fonts/PressStart2P.ttf);
+}
+
 p{
     color:green;
     font-family:"Consolas";
@@ -7,14 +12,15 @@ p{
 h1{
     color:white;
     background-color:black ;
-    font-family:"Courier New";
+    font-family:"PressStart2P";
 }
 
 
 h4{
     color:white;
-    font-family:"Courier New";
+    font-family:"PressStart2P";
     background-color:black ;
+    font-size: 10px;
 }
 
 ul{
