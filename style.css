@@ -3,6 +3,11 @@
     src: url(PressStart2P.ttf);
 }
 
+@font-face {
+    font-family: 'Pokemon';
+    src: url(pokemon_fire_red.ttf);
+}
+
 p{
     color:green;
     font-family:"Consolas";
@@ -12,13 +17,13 @@ p{
 h1{
     color:white;
     background-color:black ;
-    font-family:"PressStart2P";
+    font-family:"Pokemon";
 }
 
 
 h4{
     color:white;
-    font-family:"PressStart2P";
+    font-family:"Pokemon";
     background-color:black ;
     font-size: 10px;
 }
